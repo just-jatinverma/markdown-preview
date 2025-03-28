@@ -9,6 +9,10 @@ A simple and responsive **Markdown Previewer** built using **JavaScript, Marked.
 - **Responsive Design**: Works on all screen sizes.
 - **Easy to Use**: Just open the page and start typing Markdown.
 
+## 🚀 Live Demo
+
+[Click here to check it out!](https://mkdwnpreview.netlify.app/)
+
 ## 📸 Screenshot
 
 ![Markdown Previewer](./markdown%20preview.png) <!-- Replace with actual screenshot -->
